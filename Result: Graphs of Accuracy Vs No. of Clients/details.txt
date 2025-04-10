@@ -1,0 +1,6 @@
+The Plots Here contains:
+optimizer='adam',
+    loss='sparse_categorical_crossentropy',
+    metrics=['accuracy']
+Plots only Accuracy for Rounds:3,5,9,7,10,11
+Aggregation Strategy used="FedAvg"
